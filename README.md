@@ -48,7 +48,6 @@ dockerized-flask-app/
 │
 ├── architecture-overview.md
 ├── cleanup-guide.md
-├── command-reference.md
 ├── deployment-guide.md
 ├── execution-workflow.md
 │
