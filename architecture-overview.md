@@ -1,6 +1,7 @@
 # 🏛️ Architecture Overview
-
-<img width="1456" height="1456" alt="image" src="https://github.com/user-attachments/assets/d56306e7-7888-4c2c-9491-089ed19a2cf6" />
+<center>
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/d56306e7-7888-4c2c-9491-089ed19a2cf6" />
+</center>
 
 The application follows a simple containerized architecture where a web browser communicates with a Flask application running inside a Docker container.
 
