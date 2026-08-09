@@ -51,7 +51,6 @@ dockerized-flask-app/
 ├── command-reference.md
 ├── deployment-guide.md
 ├── execution-workflow.md
-├── Project_Documentation.pdf
 │
 ├── app/
 │   ├── app.py
